@@ -1,0 +1,14 @@
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\bin\Debug\net8.0\SizeofPrimitives.exe
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\bin\Debug\net8.0\SizeofPrimitives.deps.json
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\bin\Debug\net8.0\SizeofPrimitives.runtimeconfig.json
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\bin\Debug\net8.0\SizeofPrimitives.dll
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\bin\Debug\net8.0\SizeofPrimitives.pdb
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\obj\Debug\net8.0\SizeofPrimitives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\obj\Debug\net8.0\SizeofPrimitives.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\obj\Debug\net8.0\SizeofPrimitives.AssemblyInfo.cs
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\obj\Debug\net8.0\SizeofPrimitives.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\obj\Debug\net8.0\SizeofPrimitives.dll
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\obj\Debug\net8.0\refint\SizeofPrimitives.dll
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\obj\Debug\net8.0\SizeofPrimitives.pdb
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\obj\Debug\net8.0\SizeofPrimitives.genruntimeconfig.cache
+C:\Users\aidan\source\repos\SizeofPrimitives\SizeofPrimitives\obj\Debug\net8.0\ref\SizeofPrimitives.dll
