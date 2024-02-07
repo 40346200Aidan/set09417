@@ -1,0 +1,14 @@
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\bin\Debug\net8.0\SudokuApplication.exe
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\bin\Debug\net8.0\SudokuApplication.deps.json
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\bin\Debug\net8.0\SudokuApplication.runtimeconfig.json
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\bin\Debug\net8.0\SudokuApplication.dll
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\bin\Debug\net8.0\SudokuApplication.pdb
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\obj\Debug\net8.0\SudokuApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\obj\Debug\net8.0\SudokuApplication.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\obj\Debug\net8.0\SudokuApplication.AssemblyInfo.cs
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\obj\Debug\net8.0\SudokuApplication.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\obj\Debug\net8.0\SudokuApplication.dll
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\obj\Debug\net8.0\refint\SudokuApplication.dll
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\obj\Debug\net8.0\SudokuApplication.pdb
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\obj\Debug\net8.0\SudokuApplication.genruntimeconfig.cache
+C:\Users\aidan\source\repos\SudokuApplication\SudokuApplication\obj\Debug\net8.0\ref\SudokuApplication.dll
