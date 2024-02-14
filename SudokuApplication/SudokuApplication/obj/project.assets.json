@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aidan\\source\\repos\\SudokuApplication\\SudokuApplication\\SudokuApplication.csproj",
+      "projectUniqueName": "C:\\Users\\aidan\\OneDrive\\Desktop\\40346200-Coursework\\SudokuApplication\\SudokuApplication\\SudokuApplication.csproj",
       "projectName": "SudokuApplication",
-      "projectPath": "C:\\Users\\aidan\\source\\repos\\SudokuApplication\\SudokuApplication\\SudokuApplication.csproj",
+      "projectPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\40346200-Coursework\\SudokuApplication\\SudokuApplication\\SudokuApplication.csproj",
       "packagesPath": "C:\\Users\\aidan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aidan\\source\\repos\\SudokuApplication\\SudokuApplication\\obj\\",
+      "outputPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\40346200-Coursework\\SudokuApplication\\SudokuApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
